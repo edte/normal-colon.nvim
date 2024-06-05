@@ -22,7 +22,18 @@ require("normal-colon").setup()
 
 ## 🚀 Usage
 
-Press `<Leader>h` and it says hello to you.
+Press f to enter cmd mode
+
+https://github.com/edte/normal-colon.nvim/assets/50194671/a6ad3e56-9ed1-4c83-bb43-6338120d3e19
+
+Press fFtT to jump
+
+
+https://github.com/edte/normal-colon.nvim/assets/50194671/a6075240-2f5a-4a35-8212-4dec2cb6e199
+
+
+
+
 
 ## 🔧 Configuration
 
@@ -30,12 +41,3 @@ You can pass your config table into the `setup()` function or `opts` if you use 
 
 ### Options
 
-- name (optional, type: string): the name that example.nvim greets with
-
-Example:
-
-```lua
-require("example").setup({
-   name = "Max",
-})
-```

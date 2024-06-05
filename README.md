@@ -8,16 +8,16 @@ In normal mode, use a semicolon to enter the command line mode, and use a semico
 
 ```lua
 -- lazy.nvim
-{
-   "edte/normal-colon.nvim",
-   opts = {}
-},
+	{
+		"edte/normal-colon.nvim",
+		opts = {},
+	},
 ```
 
 2. Setup the plugin in your `init.lua`. This step is not needed with lazy.nvim if `opts` is set as above.
 
 ```lua
-require("example").setup()
+require("normal-colon").setup()
 ```
 
 ## 🚀 Usage

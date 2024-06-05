@@ -1,7 +1,7 @@
-*accelerated-jk.txt*    Accelerate up/down movements
+*normal-colon.txt*    Accelerate up/down movements
 
-Author     : rainbowhxch
-Github     : https://github.com/rainbowhxch/accelerated-jk
+Author     : edte 
+Github     : https://github.com/edte/normal-colon.nvim
 
 Help for accelerated-jk.nvim                                   *accelerated-jk*
 
